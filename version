@@ -1,6 +1,6 @@
 {
 "com.myice92.elevation": {
-"minVersionCode": 6,
+"minVersionCode": 11,
 "enable": true,
 "force": true
 }
